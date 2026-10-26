@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "kingomart", "runtimeExecutable": "node", "runtimeArgs": ["C:/KingoMart/serve.mjs"], "port": 5173, "autoPort": true }
+  ]
+}
